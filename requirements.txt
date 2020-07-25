@@ -47,7 +47,7 @@ defusedxml==0.6.0
 diff-match-patch==20181111
 distributed==2.11.0
 dj-database-url==0.5.0
-Django==3.0.6
+Django==3.0.7
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -240,7 +240,7 @@ yapf==0.28.0
 zict==1.0.0
 zipp==2.2.0
 dj-database-url==0.4.1
-Django==3.0.6
+Django==3.0.7
 gunicorn==19.6.0
 psycopg2==2.6.2
 whitenoise==3.2.2
